@@ -89,7 +89,7 @@ App build in:
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 
-App runtime Framewor and helpers:
+App runtime Frameworks and helpers:
 
 - ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
 
